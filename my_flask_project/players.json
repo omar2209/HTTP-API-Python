@@ -1,0 +1,82 @@
+[
+  {
+    "Player": "LeBron James",
+    "Team": "LAL",
+    "Height": 206,
+    "Weight": 113,
+    "Age": 36,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/LeBron_James_%281959977144%29_%28cropped2%29.jpg/330px-LeBron_James_%281959977144%29_%28cropped2%29.jpg"
+  },
+  {
+    "Player": "Kevin Durant",
+    "Team": "BKN",
+    "Height": 208,
+    "Weight": 109,
+    "Age": 33,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/43/Kevin_Durant_by_Gage_Skidmore_2.jpg"
+  },
+  {
+    "Player": "Stephen Curry",
+    "Team": "GSW",
+    "Height": 191,
+    "Weight": 86,
+    "Age": 33,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Stephen_Curry_2016.jpg"
+  },
+  {
+    "Player": "Giannis Antetokounmpo",
+    "Team": "MIL",
+    "Height": 211,
+    "Weight": 110,
+    "Age": 26,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/88/Giannis_Antetokounmpo_%282019%29.jpg"
+  },
+  {
+    "Player": "James Harden",
+    "Team": "PHI",
+    "Height": 196,
+    "Weight": 100,
+    "Age": 31,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/James_Harden_2019.jpg"
+  },
+  {
+    "Player": "Luka Doncic",
+    "Team": "DAL",
+    "Height": 201,
+    "Weight": 104,
+    "Age": 22,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Luka_Doncic_2021.jpg"
+  },
+  {
+    "Player": "Nikola Jokic",
+    "Team": "DEN",
+    "Height": 213,
+    "Weight": 129,
+    "Age": 26,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Nikola_Joki%C4%87_in_2022.jpg"
+  },
+  {
+    "Player": "Joel Embiid",
+    "Team": "PHI",
+    "Height": 213,
+    "Weight": 127,
+    "Age": 27,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Joel_Embiid_2019.jpg"
+  },
+  {
+    "Player": "Damian Lillard",
+    "Team": "POR",
+    "Height": 188,
+    "Weight": 88,
+    "Age": 30,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/43/Damian_Lillard_%2834341571815%29.jpg"
+  },
+  {
+    "Player": "Kawhi Leonard",
+    "Team": "LAC",
+    "Height": 201,
+    "Weight": 102,
+    "Age": 29,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Kawhi_Leonard_2019.jpg"
+  }
+]
